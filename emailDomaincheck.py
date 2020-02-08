@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import re
 import socket
 import sys
 
 writeFileName_='writefile.txt'
-readFileName_='readfile.txt'
+readFileName_='1.docx`'
 
 def pingcheck(hostname):
     try:
